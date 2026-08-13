@@ -363,7 +363,7 @@ def main():
     print("KK Payments Bot is running...")
 
 
-    app.run_polling()
+    app.run_polling(bootstrap_retries=-1)
 
 
 if __name__ == "__main__":
