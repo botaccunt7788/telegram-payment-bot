@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 
-TOKEN = os.environ["8963250497:AAEP1rsAwPOFN_Tt17Ghduf74OHrgGCxwRo"]
+TOKEN = os.environ["TOKEN"]
 
 
 # ============================================================
